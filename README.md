@@ -1,2 +1,2 @@
-# CursoMatem-ticas
+# mathUCE
 Cuadernos de todas las clases 
